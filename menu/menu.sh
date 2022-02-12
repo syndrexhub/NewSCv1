@@ -8,7 +8,7 @@ echo "Checking VPS"
 clear 
 echo -e ""
 echo -e "\e[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
-echo -e "\E[0;100;31m               • AutoScript By Zynv01 •                                                               \E[0m"
+echo -e "\E[0;100;31m               • AutoScript By Zynv01 •                 \E[0m"
 echo -e "\e[0m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
 echo -e ""
 echo -e "                 [\e[34m•1\e[0m] Create Xray"
