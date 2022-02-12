@@ -7,7 +7,7 @@ MYIP=$(wget -qO- ifconfig.co);
 echo "Checking VPS"
 clear 
 echo -e "\e[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
-echo -e "\E[0;100;31m                    • Domain Menu •                                                                   \E[0m"
+echo -e "\E[0;100;31m                    • Domain Menu •                     \E[0m"
 echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
 echo -e ""
 echo -e "                 [\e[34m•1\e[0m]  Changedomain Host VPS"
