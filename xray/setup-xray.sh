@@ -1,7 +1,7 @@
 #!/bin/bash
 # ===================================
 # Xray Quick Setup
-# Auther : pakyavpn
+# Auther : zyanvpn
 # ===================================
 
 # // Silakan Isi Bawah Ini
