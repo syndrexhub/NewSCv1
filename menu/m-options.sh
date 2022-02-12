@@ -8,7 +8,7 @@ green='\e[32m'
 nc='\e[0m'
 clear 
 echo -e "\e[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
-echo -e "\E[0;100;31m                   • Options Menu •                                                                   \E[0m"
+echo -e "\E[0;100;31m                   • Options Menu •                     \E[0m"
 echo -e "\e[0m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
 echo -e ""
 echo -e "                 [\e[34m•1\e[0m]  Delete Xray Account"
