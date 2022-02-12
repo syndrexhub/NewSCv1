@@ -51,8 +51,8 @@ echo -e "\e[0m━━━━━━━━━━━━━━━━━━━━━━
 echo -e "${GREEN}VLess/XTLS Splice UDP Configuration Link${NC}"
 echo " vless://$uuid@$domain:$port?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-splice-udp443&sni=${bug}#$username"
 echo -e "\e[0m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
-echo -e "${GREEN}Script By PakyaVPN${NC}"
-echo -e "${GREEN}t.me/anakjati567${NC}"
+echo -e "${GREEN}Script By ZyanvVPM${NC}"
+echo -e "${GREEN}t.me/zyanv01${NC}"
 echo -e "\e[32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m"
 read -p "Press Enter For Back To Menu CTRL+C To Cancel : "
 xray-menu
